@@ -1,6 +1,7 @@
 RippleSplash
 ====================
 This is a way to run Splash screen with ripple animation.
+Support from android 2.2 (API 8+)
 
 Demo
 ========
